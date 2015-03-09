@@ -1,0 +1,10 @@
+Rulename##dridex
+Term##dridex
+Term##invoice
+AV##Dridex.K
+AV##Yakes
+URL##/js/bin.exe
+URL##/mops/pops.php
+Domain##translatorswithoutborders.com
+Domain##rapidappliances.co.uk
+Email##threat.actor@gmail.com
