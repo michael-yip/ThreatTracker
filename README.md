@@ -14,7 +14,7 @@ Requirements:
 	1) Google APIs Client Library for Python - https://developers.google.com/api-client-library/python/start/installation
 	2) Google API key(s)
 	3) To use the script, rules must be created in the /rules directory. 
-	Note: A sample rule (for tracking Dridex) is created to highlight the fomart required.
+		Note: A sample rule (for tracking Dridex) is created to highlight the fomart required.
 
 This project is still in beta and so if you have found a bug, please do let me know :-)
 
